@@ -3,7 +3,7 @@ var _examples_repo = "https://github.com/wikipathways/SPARQLQueries";
 var _defaultGraph = "";
 var _namespaces = snorql_namespacePrefixes;
 
-var _poweredByLink = 'https://github.com/wikipathways/snorql-extended';
+var _poweredByLink = 'https://github.com/laurent2207/snorql-ENM';
 var _poweredByLabel = 'eNanoMapper SNORQL';
 
 var _showLiteralType = false;
