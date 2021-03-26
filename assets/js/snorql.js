@@ -4,7 +4,7 @@ var _defaultGraph = "";
 var _namespaces = snorql_namespacePrefixes;
 
 var _poweredByLink = 'https://github.com/wikipathways/snorql-extended';
-var _poweredByLabel = 'Wikipathways SNORQL';
+var _poweredByLabel = 'eNanoMapper SNORQL';
 
 var _showLiteralType = false;
 
